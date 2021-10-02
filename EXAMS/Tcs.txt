@@ -1,0 +1,470 @@
+
+============
+Subject: More Elimination in first round only
+
+Hi All,
+I would like to share one important thing about the big MNC recruitment process, big MNCs like TCS, IBM, Infosys, HCL, Accenture, ETC for these companies first round is big elimination round, the person who selected in first round 99% get selected in rest of the interview round. Because these big MNC invest lot of money in the trainings for the fresher. Because they know they can teach any skill and can get work from you
+
+This is personally suggestion for all the people are preparing for the TCS, please practice more so you get selected in first round.
+
+Note: There is no coding round in TCS recruitment process this year.
+
+There are the following rounds of interview in the TCS recruitment.
+
+Written round Includes:
+
+Written Round:
+• Email Writing
+Email Writing section was 10 mins
+In this section you have to write an email for the given scenario in 10 minutes. For example, they might ask you to write a proposal e-mail to the company’s clients to try their new products.
+*****************************************
+• Quantitative Ability and Reasoning MCQ(Muliple choice questions)
+Quants of 40 mins with 20 questions 
+Negative Marking: 0.33 for each negative answer
+Questions asked from these topics:
+• Averages, Mixtures and Alligations
+• Percentages, Profit and loss
+• Algebra, Ratio and Proportions
+• Permutation and Combinations, Probability
+• Time, speed, distance, Time and Work
+• Functions, Geometry
+• Numbers
+
+You can refer below site to prepare these kind of questions
+http://www.indiabix.com/
+
+Verbal Ability MCQ Questions:
+https://www.indiabix.com/verbal-ability/questions-and-answers/?fbclid=IwAR1DwKQFWCC55CQS2pzK_geFC35zTzs8xu6rZTge_h0V9OQqEWgnccIjAg8
+• Programming and Computer Science MCQ
+Then Computer Science Basics MCQ for 20 mins
+It consists of simple c fundamentals, output questions.
+Negative Marking: 0.33 for each negative answer
+1. Which is the character array used to accept command line arguments?
+A) char argv B) char* argv[] C) char argv[] D) char* argv
+2. What is a dangling pointer?
+3. Which is not a string function?
+A) strstr B)strcmp C) strupr D) strchr
+4. Which of the following does not require to include math.h header file?
+A) pow() B) rand() C)sqrt() D) sinh()
+5. What is the task of pre-processor?
+A) Expanding B) Compiling C) Linking D) All of the above
+6. Which of the following is true?
+A) realloc() can change the memory size of arrays
+B) Unary operator works on only one operand
+C) Struct and Union works in same way.
+D) None of the above
+7. Which of this is used to skip one iteration:
+A) break B) continue C) goto D) return
+8. Which address does a pointer to an array store:
+A) Memory address of the first element of the array
+Don’t remember the other options.
+9. Predict the output:
+float a = 0.1;
+if(a==0.1)
+printf(“Yes”);
+else
+printf(“No”); Answer would be No.
+10. Another output based question which basically displayed the input string in reverse pattern. For example, ABRACADABRA was displayed as ARBADACARBA.
+
+You can refer below site to prepare these kind of questions
+http://www.indiabix.com/
+****************
+Technical paper - check job hunt folder
+********************************
+Technical interview Round:
+Please prepare all the skills which u have mentioned in your resume. TCS does not expect much from fresher. 
+Below questions have been asked in technical interview of TCS 
+1. Tell me about yourself (other than the things already mentioned in CV).
+2. What are your strengths and weaknesses?
+3. Where do you see yourself in 5 years?
+4. What are your hobbies? (Be prepared with questions related to your hobbies)
+5. What is a Deadlock? And some other questions related to it.
+6. What kind of project did you work upon in Onternship Programme? Draw a Flowchart of operations.
+7. From DBMS, questions related to Primary Key, Foreign Key, Natural Join, ER Diagram, Sequence Diagram.
+8. Will you be able to relocate? And work on weekends and late night shifts? (Say “Yes” to everything. Do not go for “No” option or being honest there.)
+*************************************
+HR Interview:
+
+Tell me about yourself
+What you know about TCS
+========
+Please follow www.campusgate.co.in and TCS given instructions. You will get almost 90% questions with the same pattern or maybe 20-30% even same. You can also practice from m4maths. 
+============
+The pattern of this online round has been changed this year. This year, there will be four sections in the online round, each having sectional cut-offs.
+G
+#Section A. Letter Writing. You are required to write a letter as directed incorporating the mentioned keywords in the body, signing off with the appropriate names. 1 letter. 10 minutes.
+=============================
+#Section B. Quantitative Aptitude. Questions to test your quantitative aptitude. You can expect questions from Numbers, Ratio, Average, Percentage, Profit and Loss, Fractions, Time and Work, Speed Distance Time, Age, Mensuration, Cubes etc. 20 questions. 40 minutes. Negative marking prevails for incorrect responses.
+=============================
+#Section C. Technical. You will be tested on your programming concepts, mostly C Programming. Concepts should be revised thoroughly. Negative marking prevails for incorrect responses. 10 questions. 20 minutes.
+=============================
+#Section D. Coding. There is supposed to be only one question in this section which will test your programming skill. 20 minutes time.
+
+The shortlisted candidates will be eligible to appear for the Technical interview followed by the HR interview.
+===========
+
+
+
+===========
+1.Aptitude Roud+Email Writing-
+Aptitude-
+Total 20 ques from aptitude and You can prepare for that from campusgate.
+Below mentioned majot topics-
+a.Percentage
+b.Profit loss
+c.Average
+d.Time and work
+e.Time and speed
+
+Email Writing-
+Its very imp section and also its rejection of job-seeker process and you have mostly 10-15 mint and write the email either 150-250 character
+
+Note-If you cleared aptitude with better score but not cleared Email Writing Round then you will be not able to proceed further
+
+2.Technical Round-
+Mostly asked basic programs and coding related ques which you mentioned in Resume.So be prepare for that.Also be remember interviewer ask all point and ques which you put in 
+Resume
+
+3.Managerial Round-
+In this round mostly again sometimes ask the technical ques and Full description about your project work.Major ques ask-
+
+a.What was your role in project?
+b.Which lang you used?
+c.Some puzzle type ques.
+d.What was you did in project?
+
+4.HR Round-
+In this round tehy asked very simple ques-
+
+a.Tell me about yourself?
+b.What are your strengths and weaknesses?
+c.Why TCS?
+d.Tell me something about yourself which is not there in your resume / CV?
+e.Can you work under pressure? or How do you handle pressure at work?
+f.Why should I hire you?
+g.Do you prefer to work independently or on a team?
+============
+TCS is one of the largest software company in the world. I got a job at TCS in college campus. I feel very happy for this. I know everybody become tensed when he/she appear his/her first interview. I also felt nervous. In my opinion there are some steps to crack TCS selection process. For TCS selection a very important link is #nextstep.#tcs.#com/campus/.
+At first eligible criteria :
+Campus Recruitment - TCS Eligibility Criteria :
+1) Minimum aggregate (aggregate of all subjects in all semesters) marks of 60% or above in the first attempt in each of your Class Xth, Class XIIth, Diploma (if applicable), Graduation and Post-Graduation examination which includes successful completion of your final year/semester without any pending arrears/back logs during the entire course duration. Please note that all subjects mentioned on the mark sheets should be taken into consideration while calculating the aggregate marks. For example, best of 5/6 subjects for calculating the aggregate is not acceptable as per the TCSL Eligibility Criteria. All subjects mentioned on the mark sheet (including languages, optional subjects etc) should be taken into consideration for calculating obtained/total marks/CGPA.
+2) First attempt implies that you should pass the final year/semester examination (Xth, XIIh, Diploma, Graduation and Post-Graduation as applicable) with minimum aggregate (aggregate of all subjects in all semesters) marks of 60% and above within the normal duration of the course itself. For example, if you have secured 58.9 % (aggregate of all subjects) in your Standard XIIth examination in the first attempt and you have taken an improvement exam in the next attempt securing 62 %, you do not fulfill the TCSL eligibility criteria as marks/CGPA obtained during the normal duration of the course only will be considered.
+3) Completion of all courses Class Xth on wards within the stipulated time as specified by your University/Institute and as per the TCSL Selection Guidelines without any extended education. For example, if you have a backlog in the final semester of BE, it is considered as extended education as the stipulated time to complete BE is 4 years.
+4) Maximum up to 2 pending backlogs/arrears in the highest qualification will be permitted only at the time of appearing for the TCS Selection process. If selected, no pending backlogs will be permitted at the time of joining TCS. All pending backlogs should be completed within the normal course duration.
+5) It is mandatory to declare the gaps/arrears/backlogs, if any, during your academic and work experience. Break in education should not be due to extended education. Any break in education/work experience should not exceed 24 months and is permissible only for valid reasons.
+6) Only Full time courses will be considered (Part Time/Correspondence courses will not be considered).
+7) Candidates with work experience of more than 3 years are not eligible to participate in the TCS Selection process.
+8) You should be minimum 18 years of age to be eligible to apply for the TCSL Selection process.
+9) Candidates who have applied to TCSL and have not been successful in clearing the TCSL selection process, are not eligible to re-apply to TCSL within six months from the date on which they had attended such selection test and/or interview. You are not eligible to appear for the TCSL selection process within six months of the previous unsuccessful attempt.
+Selection process : 
+There are two steps in selection process-
+1) Written Test
+2) Interview Round
+1) Written Test Instructions : 
+A) Test Format:
+1) The Test has two sections- Verbal Ability and Analytical Ability. The Verbal Ability Section has 1 question and the Analytical Ability Section has 30 questions.
+2) The test will begin with the Verbal Ability Section followed by the Analytical Ability Section. You cannot come back to the Verbal Ability Section once you move to the next section.
+3) The test duration for the Verbal Ability Section is 10 minutes and for the Analytical Ability Section is 80 minutes.
+4) The countdown timer displayed on the test screen will display the time left to complete each section.
+5) There are separate timers for each section and the timer will start the moment the first question appears on the screen.
+6) The test duration for each section is fixed. If you complete the Verbal Ability section in less than 10 minutes, the left over time will NOT be carried forward to the Analytical Ability section.
+7) Click Exit in the Verbal Ability section, to move to the Analytical Ability section. Click Exit in the Analytical Ability section to log out of the test.
+8) To refer the test instructions at any point of time during the test, click Info on the screen. Please note that the timer will continue to run even while you are on the Info screen once the test begins.
+B) Answering the Verbal Ability Section :
+1.To answer a question, enter free text in the space provided and click Submit Answer.
+2.To exit and move to the next section, click Exit.
+3.The Word Counter on the screen will help you keep an account of the total number of words typed by you.
+4.You will be automatically logged out of the Verbal Ability Section after 10 minutes. The text entered by you will be submitted and considered as the final answer.
+5.There will be No Negative marking for this section.
+C) Answering the Analytical Ability Section :
+1. To navigate to any question, click the question number on the scroll bar at the top or bottom of the screen.
+2. To answer a question, choose any one of the options provided and click Submit Answer.
+3. To clear a chosen answer, click Reset.
+4. In case you wish to come back to a specific answer for review, select the answer, click Mark for Review check box and submit the answer. Questions marked for review will be indicated differently on the scroll bar till the time you come back to the question and thus help in quick navigation.
+5. To skip a question you do not wish to attempt at all or attempt later, click Skip this Question. If you select an answer option and skip a question, the answer will not be saved.
+6. An online scientific calculator has been provided on the test screen for your use. Note that use of any other calculator is not permitted.
+7. To exit the test, click Exit. You will be automatically logged out of the test after 80 minutes. All answers submitted by you (including those that are Marked for Review) will be considered as the final answers.
+8. All questions, except the ones that are marked as , carry equal marks.
+9. Questions carry higher marks than the rest. All questions carry equal marks.
+10. Negative marking is applicable to this section. Please avoid guessing answers.
+11. The legend on the screen indicates the following:
+Answered.
+Answered & Marked for Review.
+Carries higher marks.
+Verbal Ability : It's a mail writing. It do within 10 mins.
+Rules for E-mail : 
+Do’s in email writing:–
+1. Start writing the email directly. Do not add "To", "CC", "BCC" or "Subject" lines in the email. Only the body is needed.
+2. Check for spelling mistakes in the email.
+3. Read the email again for times in an email. If important it should be repeated only once.
+4. Check for SMS language in your email.
+5. Check for grammar. Do not mix up active voice and passive voice, or tenses, or singular/plural.
+6. Use Active Voice in the email.
+7. Make sure all the phrases given are present in the email exactly the way they are provided. Do not alter or change them.
+8. Do not think that more words will fetch you more marks. minimum of 70 or the count suggested in the test.
+Don’ts in email writing:–
+1. Never use too much emotion in the email.
+2. Never speak ill of yourself, team or company in any emails.
+3. Do not go overboard with which you can go through, which will help redundancies. Points should not be repeated too many Only then you can submit the answer. Keep the word count test. It’s unprofessional.
+4. Never address anyone with "beloved", "loving", "with love" in your emails. Totally unprofessional.
+5. Never use capitals for whole word.
+6. Do not break them up into individual words. matter.
+7. Do not exceed the word count to more than 100.
+8. Do not change content of the email once you have crossed the less than 2 mins limit.
+Email Structure –
+1. The mail body has to start with a "Dear" or a "Hi", followed by the first name of the person you are sending the mail to. For ex Dear Vidya or Hi Harish.
+2. Add an introduction to the mail. Introduction does not mean introducing yourself (which you have to do in case the person you are writing to does not know you). It means the person who will read your email understands what will be discussed in the email.
+3. Follow the introduction with details. The details commonly are what you want to talk about in the mail. For ex If you are writing a delay in the project mail. The why, what and how's of the delay. Just explaining about the delay.
+4. Next should be the current and future steps to be taken if any. This is applicable the best for mails conveying bad news. For other mails apply this rule as needed, such as, in a training mail this might mean your expectations of the training.
+5. For appreciation mails, etc being appreciated. Do not appreciating the whole team instead of the member to be appreciated.
+6. Also for appreciation mails clearly mention how his/her achievements have impacted on the project.
+7. Close the email with a simple him if they need anything else.
+- NEVER!, except for short forms, etc. Sequence of the phrases 100 words at any cost.
+- Dear Vidya or Hi Harish.
+- If you are writing a delay in the project mail.
+- The why, what and how's of the delay.
+ls be very careful to not lose focus on the team member generalize his/her achievements.
+8. Simply use a "Thanks", "Thanks and Regards", or "Regards". If you have already thanked the person in the last statement, do not thank again.
+9. Write your first name or full name.
+Approach and PLAN:–
+1. Read the question carefully and understand the keywords carefully.
+2. Think and pen down the points you want to include in the email. Penning down the words should be very brief and not lengthy. Directly start typing your email.
+3. Type the introduction.
+4. Type the ending 30 seconds.
+5. Type the rest of the body from the points you have written down in 4 mins.
+6. Check for spelling, grammar and redundancies and make any minor corrections needed 2 mins.
+Some example of mail writing :
+Question 1: Using the following phrases, write an email with minimum of 70 words to the customer Mr. Gill Roy explaining delay to the project.
+HINTS:- Payment processing system – Schedule – 10th May (Friday) – Unexpected power outage – 3 days – Overall delay – 7 days – includes recovery of lost work – will not recur.
+Sample Answer:
+Dear Mr. ABC,
+The project “Payment processing system” was scheduled to be delivered on 10th May (Friday). However, due to an unexpected power outage in our offshore site for the past 3 days, work did not progress as expected. Also we lost a few of our works as backup systems did not come online. Hence we are expecting an overall delay in the delivery of the project for a maximum of 7 days within which our team will work on the issues. Apologies for the delay and we will ensure that the mistake will not recur in future again.
+Thanks and Regards
+Your Name
+Question 2: You are a part of corporate communication team in your company. The working time period is revised as 8:30 am to 5:00 pm. Using the following phrases, write an email with a minimum of 70 words and a maximum of 100 words to the employees in your company informing the same.
+HINTS:- By 30 minutes to avoid traffic - effect from next week - lunch duration-revised working time - reduced by 10 minutes-free breakfast-office will start earlier-till the end of rainy season-will be in effect.
+Dear All,
+We hereby announce a change in the work timings as 8.30 AM to 5.00 PM, with effect from next week, till the end of rainy season Which means, office hours would commence 30 mins earlier to cover up minimum 30 Mins extra time being spent during peak hour traffic during monsoons. Also, additional changes include reduction of lunch duration by 10 minutes & timings of free breakfast are now applicable from 7.30 AM to 8.30 AM only. Sincere request to each one of you to adhere to the new timings.
+Have a nice day
+Regards
+Your name
+Question 3: As your company is doing good business and expanding, your company is relocating it's office to a new address. Using the following phrases, write an email with a minimum of 70 words and a maximum of 100 words to your customer informing the change in address.
+HINTS:- near outer ring road-shifting to-bigger office space-November 10-change in telephone number-new address is provided below-fourth floor-Casino Business Park.
+Dear All,
+We are happy to announce that we are moving out to much spacious office from November 10th on wards. It is indeed a great sign of our ever growing business & our increasing clientele. Hence, for a better productivity results, our management has taken a decision of increasing the team size & allocate us a much more spacious facility with all the modern state of art amenities. Our new abode will be Fourth Floor, Casino Business Park, Near Outer Ring Road, Bangalore/Chennai/Hyderabad etc.,
+Please also make a note of new board line number (reception number)-xxx-xxxxxxxx. Lets us all make the most use of the resources available in the said new office to server our clients better.
+Thanks & Regards
+Your name
+Question 4: You are the project leader for a team of 20 members. As the team members are not submitting the weekly time sheets regularly, you need to email them stressing the need to submit without fail. Using the following phrases, write an email with a minimum of 70 words and a maximum of 100 words to your team members informing the same.
+HINTS:- can be accessed online-lead to loss of pay-every week-do not default-used to bill client-actual working hours-by Friday-failure to adhere-time sheet filling application.
+Dear All,
+It has been observed that many of you are not filling the time sheets on regular basis. Let me tell you, filling up time sheets is the only way, to measure your hard work, as long as you are working on this project. This is important for us to report it to our client, the actual amount of work done by each one of you in terms of number of hours per day, at the end of every week. Only on the basis of this, we can bill you all to the client, which is directly linked to you monthly salary. In our words, it leads to loss of pay for any particular day, for which time sheet is not filled. Please adhere to the company guidelines & fill the same on daily basis or at least weekly basis. Time sheet filling application is easily accessible in our intranet portal, which needs your log in credentials. Please do the needful on regular basis.
+Regards
+Your name
+In below there are some books those are help in E-mail writing :
+1) The Effective Business Email Writing
+2) The Art of E-mail Writing
+3) Writing Effective Letters, Memos, and E-mail
+4) E-mail: A Write It Well Guide
+5) Sahani English Essays Letter Writing & Email
+Analytical Ability: Mathematics questions are present in this section. There are total 30 question and time 80 mins. So, you must practice for this section. I give you my set which came first round in my TCS selection process.
+My questions set :
+1) Two trains 130 m and 120 m long run at the speed of 70 km/hr and 50 km/hr respectively in opposite directions on parallel tracks. The time (in seconds) which they take to cross each other, is?
+(a) 8.5 sec
+(b) 3.5 sec
+(c) 7.5 sec
+(d) 6.5 sec
+2) A, B and C enter into partnership with a total of Rs 8,200. A s capital is Rs 1,000 more than B s capital and Rs 2,000 less than C s. What is B s share of the year s profit of Rs 2,460?
+(a) Rs 120
+(b) Rs 210
+(c) Rs 470
+(d) Rs 420
+3) The sum of the squares of three numbers is 532 and the ratio of the first to the second as also of the second to the third is 3:2. What is the second number?
+(a) 12
+(b) 14
+(c) 44
+(d) 18
+4) Three partners shared the profit in a business in the ratio 5 : 7 : 8. They had partnered for 14 months, 8 months and 7 months respectively. What was the ratio of their investments?
+(a) 38:28:21
+(b) 20:49:64
+(c) 5:07:08
+(d) None of these
+5) A stairway 10 ft high is such that each step accounts for half a foot upward and one-foot forward. What distance will an ant travel if it starts from ground level to reach the top of the stairway?
+(a) 29 ft
+(b) 30 ft
+(c) 10 ft
+(d) 33 ft
+6) Six diesel engines consume 900 liters of diesel, when each one is running for 5 h a day. How much diesel will be required by 9 engines, each running 9 h a day when 5 diesel engines of former type consume as much diesel as 8 diesel engines of latest type?
+(a) 1,350 liters
+(b) 1,650 liters
+(c) 1,150 liters
+(d) 1,250 liters
+7) From a cask of milk containing 30 liters, 6 liters are drawn out and the cask is filled up with water. If the same process is repeated a second, then a third time, what will be the number of liters of milk left in the cask?
+(a) 15 liters
+(b) 18 liters
+(c) 12 liters
+(d) 15.36 liters
+8) A sum of money at simple interest amounts to Rs. 815 in 3 years and to Rs. 854 in 4 years. The sum is?
+(a) Rs. 698
+(b) Rs. 690
+(c) Rs. 700
+(d) Rs. 650
+9) A motor boat can travel at 10 km/hr in still water. It traveled 91 km downstream in a river and then returned, taking altogether 20 hours. Find the rate of flow of water.
+(a) 6 km/hr
+(b) 9 km/hr
+(c) 5 km/hr
+(d) 3 km/hr
+10) A bag contains 2 black balls, 3 red balls and 4 white balls, in how many ways can balls be drawn from the box, if at at least one red ball is to be included in the draw ?
+(a) 48
+(b) 32
+(c) 28
+(d) 64
+11)Increase area of a square by 69%, and then by what percent should the side be increased?
+(a) 25%
+(b) 33%
+(c) 13%
+(d) 10%
+12) 3, 3, 4, 8, 10, 30,?
+(a) 36
+(b) 40
+(c) 48
+(d) 33
+13) Solve the inequality 33x-2 > 1
+(a) x > 4
+(b) x > 2
+(c) x > 3
+(d) x > 1
+14) Two pipes A and B can fill a tank in 36 min. and 4S min. respectively. A water pipe C can empty the tank in 30 min. First A and B are opened. After 7 minutes, C is opened. In how much time, the tank is full?
+(a) 36 min
+(b) 16 min
+(c) 46 min
+(d) 26 min
+15) Find the compound interest on Rs 15,000 for 9 months at 12% per annum being given when the interest is reckoned quarterly.
+(a) Rs 2390.905
+(b) Rs 1390.905
+(c) Rs 5390.905
+(d) Rs 6390.905
+16) The fourth proportional to 4, 9, 16 is?
+(a) 39
+(b) 36
+(c) 45
+(d) 56
+17) When the price of the sugar was increased by 32%, a family reduced its consumption in such a way that the expenditure on sugar was only 10% more than before. If 30 Kg were consumed per month before, find the new monthly consumption.
+(a) 12 Kg
+(b) 18 Kg
+(c) 35 kg
+(d) 25 Kg
+18) Divide Rs 72 in the ratio 4 : 5.
+(a) 29
+(b) 38
+(c) 32
+(d) 36
+19) A train 125 m long passes a man, running at 5 km/h in the same direction in which the train is going, in 10 seconds. The speed of the train is?
+(a) 54 km/hr
+(b) 50 km/hr
+(c) 45 km/hr
+(d) 55 km/hr
+20) In what ratio must a person mix three kinds of tea costing Rs.60/kg, Rs.75/kg and Rs.100 /kg so that the resultant mixture when sold at Rs.96/kg yields a profit of 20%?
+(a) 1 : 2 : 4
+(b) 1 : 4 : 2
+(c) 3 : 5 : 2
+(d) None of these
+21) In expressing a digit 81.472 as nearly as possible with 3 significant digits, find the % error?
+(a) 0.072%
+(b) 0.049%
+(c) 0.085%
+(d) 0.034%
+22) A car travels 600 km in 11 hours and another 800 km in 17 hours. Find the average speed of the car during the entire journey.
+(a) 15 km/hour
+(b) 50 km/hour
+(c) 70 km/hour
+(d) 80 km/hour
+23) A man can hit a target once in 4 shots. If he fires 4 shots in succession, what is the probability that he will hit his target?
+(a) 1
+(b) 2
+(c) 3
+(d) 4
+24) At Kennedy Middle School, the probability that a student takes Technology and Spanish is 0.087. The probability that a student takes Technology is 0.68. What is the probability that a student takes Spanish given that the student is taking Technology?
+(a) 10%
+(b) 14%
+(c) 15%
+(d) 13%
+25) If the sides of a triangle measure 72, 75 and 21, what is the measure of its in radius?
+(a) 9
+(b) 37.5
+(c) 15
+(d) 24
+26) Find the equation of a line whose intercepts are twice of the line 3x - 2y - 12 = 0.
+(a) 2x - 3y = 12
+(b) 2x - 3y = 24
+(c) 2x - 3y = 44
+(d) 3x - 2y = 24
+27) A man can row 50 km upstream and 72 km downstream in 9 hours. He can also row 70 km upstream and 90 km downstream in 12 hours. Find the rate of current.
+(a) 5 km/h
+(b) 8 km/h
+(c) 4 km/h
+(d) 3 km/h
+28) There are 60 students in a class. On a day 14/15 students were present. Find the number of absentees on that day.
+(a) 6 students.
+(b) 14 students.
+(c) 10 students.
+(d) 4 students.
+29) Suppose the profits of a certain company go from 350000 in January to 420000 in February. What is the % increase in their profits?
+(a) 40%
+(b) 20%
+(c) 60%
+(d) 80%
+30) A man rows downstream 27 km and upstream 18 km, taking 3 hours each time. What is the velocity of the current?
+(a) 1.5 km/hr
+(b) 5.5 km/hr
+(c) 2.5 km/hr
+(d) 0.5 km/hr
+Some books those are help you to practice for this section :
+1) Quantum CAT - Quantitative Aptitude (Arihant)
+2) How to Prepare for Quantitative Aptitude for the CAT ( Arun Sharma)
+3) Quantitative Aptitude ( R.S Aggarwal)
+4) Aptitude Test by RPH Editorial Board
+Some Website where you can give mock examination for apptitute :
+1) m4maths
+2) indiabix
+3) nextstep.tcs
+4) Technicalbaba
+5) Skillrack
+2) Interview Round :
+After clearing 1st step I became very happy, After 1 week my interview date was come. That day was Saturday. My interview place was TCS Rajarhat, Kolkata campus. I was very excited for interview. After waiting 30 mins my time was come, They were total 3 people.
+Now I share my interview :
+At first I: Good Afternoon Sir.
+They: Good Afternoon sit.
+I: Thank you Sir.
+They: Well, Siddhartha, Where did you live?
+I: Told them.
+They: So, Siddhartha, how did you come here?
+I: Told.
+Actually they wanted that I felt easy in front of them.
+They: Your field is ECE so, why you came in TCS.
+I: Told.
+They: What were the computer base subjects I know.
+I: Told
+Then they asked some question on C, Data structure.
+I answered all the questions.
+Then asked some question on Micro controller, VLSI, Digital Electronics.
+I answered the questions.
+They: Who is my favorite cricketer and why?
+I told.
+At last they ask any question for them.
+I asked 2 questions.
+After 40 mins my interview round was over.
+I was satisfied for my interview.
+After waiting 15 mins one TCS worker told go back to your home and result would be declare by mail.
+Next day I got the good news that "I'm selected".
+Some books for preparing interview :
+1) The Interview Question & Answer Book by James Innes
+2) The Everything Job Interview Question Book by Dawn Rosenberg McKay
+3) C Interview Questions and Answers by Rajaram
+
+Src: https://tcsoncampusinterview.blogspot.in/2017/08/tcs-interview.html
+
+https://www.campusgate.co.in/2014/07/tcs-latest-placement-papers.html?fbclid=IwAR1-U8VZBwzbAek2RsDlnIy_tQ-teu35ka56itdTzOrgWnRZNla-buwHq2M
+http://placement.freshersworld.com/tcs-question-papers-and-answers/33140000211?fbclid=IwAR2myqN_pP1AvnH4GFHGuNhegWa2dtQHdgrEGejNZW1OkQwa8SIkrpSqBa8
+https://www.geeksforgeeks.org/tcs-placement-paper-mcq-1/?fbclid=IwAR1wnq0oul1EzPttfYjlxEYwK4f_vhgbal9OapN_A721MtThSv1yLGqOeNc
+https://m4maths.com/placement-puzzles.php?SOURCE=TCS&fbclid=IwAR0fMYmy2cZoN-ViWJ_U4Kh3PwMptrpbqQrX2j3GH3V8m159V2DWjquELY4
